@@ -18,6 +18,7 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.test_tab"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.TOPAZ.get());
+                        pOutput.accept(ModItems.TOPAZ_SWORD.get());
 
 
 

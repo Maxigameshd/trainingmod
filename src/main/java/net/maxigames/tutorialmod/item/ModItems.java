@@ -16,8 +16,10 @@ public class ModItems {
 
     public static final RegistryObject<Item> TOPAZ = ITEMS.register("topaz",
             () -> new Item(new Item.Properties()));
+
+
     public static final RegistryObject<SwordItem> TOPAZ_SWORD = ITEMS.register("topaz_sword",
-            () -> new CustomSwordItem(new Item.Properties(CustomSwordItem).durability(1356)));
+            () -> new CustomSwordItem(new Item.Properties().durability(1356)));
 
 
 

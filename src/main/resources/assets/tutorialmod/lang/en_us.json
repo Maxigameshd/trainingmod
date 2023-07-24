@@ -1,3 +1,6 @@
 {
-  "item.tutorialmod.topaz": "Topaz"
+  "item.tutorialmod.topaz": "Topaz",
+  "item.tutorialmod.topaz_sword": "Modblade",
+  "creativetab.test_tab": "Test Tab"
+
 }
