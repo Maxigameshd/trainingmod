@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tutorialmod:item/topaz_sword"
+    "layer0": "arafloblades:item/topaz_sword"
   }
 }

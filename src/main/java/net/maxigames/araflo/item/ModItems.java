@@ -1,7 +1,7 @@
-package net.maxigames.tutorialmod.item;
+package net.maxigames.araflo.item;
 
-import net.maxigames.tutorialmod.TutorialMod;
-import net.maxigames.tutorialmod.item.custom.CustomSwordItem;
+import net.maxigames.araflo.ArafloBlades;
+import net.maxigames.araflo.item.custom.CustomSwordItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.SwordItem;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -11,7 +11,7 @@ import net.minecraftforge.registries.RegistryObject;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
-            DeferredRegister.create(ForgeRegistries.ITEMS, TutorialMod.MOD_ID);
+            DeferredRegister.create(ForgeRegistries.ITEMS, ArafloBlades.MOD_ID);
 
 
     public static final RegistryObject<Item> TOPAZ = ITEMS.register("topaz",

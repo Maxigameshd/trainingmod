@@ -1,11 +1,6 @@
-package net.maxigames.tutorialmod.item.custom;
+package net.maxigames.araflo.item.custom;
 
 
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.SwordItem;
-import net.minecraft.world.item.Tier;
-import net.minecraft.world.item.Item.Properties;
-import org.jetbrains.annotations.NotNull;
 import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.Tiers;
